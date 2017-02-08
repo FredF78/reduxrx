@@ -1,0 +1,21 @@
+{
+  "name": "reduxRx",
+  "version": "1.0.0",
+  "description": "kompetensdag webb 20170210",
+  "main": "index.js",
+  "repository": "https://github.com/FredF78/reduxrx.git",
+  "author": "Fredrik Forsberg m fl",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "reactjs": "^1.0.0",
+    "rxjs": "^5.1.0"
+  }
+}
